@@ -15,4 +15,3 @@
 |CVE-2019-13233	|Multi-var Race 	|non-inclusive|
 ## Supplementary Figure for Q7. 
 
-![fig](./model_diff.pdf)
